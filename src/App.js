@@ -6,7 +6,7 @@ const App = () => {
     return (
         <main className="wrapper">
             <div className="header"><img className="logo" src={logo} alt="logo" /></div>
-            <div className="name"><h1>Автоизация</h1></div>
+            <div className="name"><h1>Автоизкакака3в3ка </h1></div>
             <div className="login">
                 <label>Логин</label>
                 <input type="text" />
